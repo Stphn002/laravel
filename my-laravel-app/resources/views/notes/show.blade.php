@@ -25,7 +25,7 @@
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 mt-2">
                 <div class="form-group">
-                    <strong>csubject:</strong> <br/>
+                    <strong>subject:</strong> <br/>
                     {{ $note->csubject }}
                 </div>
             </div>
