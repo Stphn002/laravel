@@ -20,6 +20,7 @@
                     <th width="80px">No</th>
                     <th>Title</th>
                     <th>content</th>
+                    <th>subject</th>
                     <th width="250px">Action</th>
                 </tr>
             </thead>

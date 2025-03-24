@@ -25,10 +25,10 @@
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 mt-2">
                 <div class="form-group">
-                    <strong>subject:</strong> <br/>
-                    {{ $note->subject }}
+                    <strong>csubject:</strong> <br/>
+                    {{ $note->csubject }}
                 </div>
-            </div>   
+            </div>
         </div>
 
     </div>
