@@ -40,7 +40,7 @@
             </div>
 
             <div class="mb-3">
-                <label for="inputcontent" class="form-label"><strong>subject:</strong></label>
+                <label for="inputcontent" class="form-label"><strong>Subject:</strong></label>
                 <textarea
                     class="form-control @error('content') is-invalid @enderror"
                     style="height:150px"
